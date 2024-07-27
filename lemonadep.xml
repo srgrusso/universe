@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oneplus/lemonadep" name="BlissRoms-Devices/android_device_oneplus_lemonadep" remote="github" revision="universe" />
+  <project path="device/oneplus/sm8350-common" name="BlissRoms-Devices/android_device_oneplus_sm8350-common" remote="github" revision="universe" />
+  <project path="vendor/oneplus/lemonadep" name="srgrusso/proprietary_vendor_oneplus_lemonadep" remote="gitlab" revision="bliss-u" />
+  <project path="vendor/oneplus/sm8350-common" name="srgrusso/proprietary_vendor_oneplus_sm8350-common" remote="gitlab" revision="bliss-u" />
+  <project path="kernel/oneplus/sm8350" name="BlissRoms-Devices/android_kernel_oneplus_sm8350" remote="github" revision="universe" />
+  <project path="hardware/oplus" name="BlissRoms-Devices/android_hardware_oplus" remote="github" revision="universe-op9pro" />
+  <project path="packages/apps/OPlusExtras" name="srgrusso/packages_apps_OPlusExtras" remote="github" revision="bliss-u" />
+  <project path="vendor/oneplus/camera" name="srgrusso/android_vendor_oneplus_camera.git" remote="gitlab" revision="bliss-u" />
+</manifest>
